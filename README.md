@@ -5,25 +5,13 @@ ApniBus is a real-time public bus tracking system designed for small cities and 
 ## 🚀 Features
 
 ### Passenger App
-- 📍 Live bus tracking
-- ⏱️ Estimated arrival time (ETA)
-- 🎫 Ticket booking
-- 💳 Wallet integration
-- 🔍 Search buses and routes
-- 👤 User profile management
+-  Live bus tracking
+-  Estimated arrival time (ETA)
+-  Ticket booking
+-  Wallet integration
+-  Search buses and routes
+-  User profile management
 
-### Driver App
-- 🔐 Driver authentication
-- 🚍 Start/End trip
-- 📡 Live GPS location sharing
-- 🗺️ Route selection
-- 📊 Trip management
-
-### Admin Panel
-- 👥 Manage drivers and buses
-- 🛣️ Manage routes
-- 📈 Monitor live trips
-- 📋 View passenger bookings
 
 ## 🛠️ Tech Stack
 
@@ -34,15 +22,6 @@ ApniBus is a real-time public bus tracking system designed for small cities and 
 - **Maps:** Google Maps API / React Native Maps
 - **Hosting:** Vercel
 
-## 📱 Screenshots
-
-- Splash Screen
-- Onboarding Screens
-- Home Screen
-- Live Tracking Map
-- Ticket Booking
-- Wallet
-- Profile
 
 ## 📂 Project Structure
 
