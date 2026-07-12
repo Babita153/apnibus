@@ -19,13 +19,13 @@ ApniBus is a full-stack bus tracking application built for small cities and educ
       <b>Login</b>
     </td>
     <td align="center">
-      <img src="screenshots/home.png" width="220"/><br>
+      <img src="screenshots/balance.png" width="220"/><br>
       <b>Home</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/map.png" width="220"/><br>
+      <img src="screenshots/routes.png" width="220"/><br>
       <b>Live Tracking</b>
     </td>
     <td align="center">
