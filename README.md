@@ -1,53 +1,132 @@
 # 🚌 ApniBus – Real-Time Bus Tracking System
 
-ApniBus is a real-time public bus tracking system designed for small cities and colleges. It allows passengers to track buses live, view estimated arrival times, and book tickets, while drivers can share their live location through a mobile application.
+ApniBus is a full-stack bus tracking application built for small cities and educational institutions. It enables passengers to track buses in real time, check estimated arrival times, and book tickets, while drivers can securely share their live location through a dedicated mobile app.
 
-## 🚀 Features
+---
 
-### Passenger App
--  Live bus tracking
--  Estimated arrival time (ETA)
--  Ticket booking
--  Wallet integration
--  Search buses and routes
--  User profile management
+## 📱 Screenshots
 
+> Add your screenshots inside a `screenshots` folder.
 
-## 🛠️ Tech Stack
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/onboarding.png" width="220"/><br>
+      <b>Onboarding</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/login.png" width="220"/><br>
+      <b>Login</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/home.png" width="220"/><br>
+      <b>Home</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/map.png" width="220"/><br>
+      <b>Live Tracking</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/ticket.png" width="220"/><br>
+      <b>Ticket Booking</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/profile.png" width="220"/><br>
+      <b>Profile</b>
+    </td>
+  </tr>
+</table>
 
-- **Frontend:** React Native
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB Atlas
-- **Authentication:** Firebase Authentication
-- **Maps:** Google Maps API / React Native Maps
-- **Hosting:** Vercel
+---
 
+# ✨ Features
 
-## 📂 Project Structure
+### 👤 Passenger App
 
-```
-apnibus/
+- 🚌 Live Bus Tracking
+- 📍 Real-Time Driver Location
+- ⏱️ Estimated Arrival Time (ETA)
+- 🎫 Ticket Booking
+- 💳 Wallet Integration
+- 🔍 Search Buses & Routes
+- 👤 User Profile Management
+
+### 🚍 Driver App
+
+- 📍 Share Live Location
+- 🛣️ Route Management
+- 🚏 Trip Updates
+- 🔐 Secure Login
+
+---
+
+# 📂 Project Structure
+
+```text
+ApniBus/
+│
 ├── frontend/
 ├── backend/
 ├── driver-app/
+├── screenshots/
 ├── assets/
 └── README.md
 ```
 
+---
 
-## 🎯 Future Enhancements
+# 🚀 Getting Started
 
-- Online payments
-- Push notifications
-- AI-based ETA prediction
-- Seat availability tracking
+### Clone the Repository
 
-## 👩‍💻 Developer
+```bash
+git clone https://github.com/your-username/apnibus.git
+```
 
-**Babita**
-- React Native Developer
-- B.Tech CSE Student
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Metro
+
+```bash
+npx react-native start
+```
+
+### Run Android
+
+```bash
+npx react-native run-android
+```
 
 ---
 
-⭐ If you like this project, give it a star on GitHub.
+# 🎯 Future Enhancements
+
+- 💳 Online Payment Gateway
+- 🔔 Push Notifications
+- 🤖 AI-Based ETA Prediction
+- 💺 Seat Availability Tracking
+- ⭐ Driver Ratings & Feedback
+- 📊 Admin Dashboard
+
+---
+
+# 👩‍💻 Developer
+
+**Babita**
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/babita-mittal-650747289
+- 🌐 **Portfolio:** https://portfoliobabita.vercel.app
+
+---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a **⭐ Star** on GitHub!
